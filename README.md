@@ -1,6 +1,7 @@
 <a href="https://github.com/mvmmarcus/wingman-store-dashboard-dashboard">
   <img alt="clean-nextjs-github" src="./public/thumb.png" />  
   <h1 align="center">Wingman Store Dashboard</h1>
+  <a href="https://wingman-store-dashboard-mdsw.vercel.app/" target="_blank" >Live demo</a>
 </a>
 
 <p align="center">
